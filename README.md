@@ -15,24 +15,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="40" height="40" alt="Facebook"/>
   </a>
   <a href="https://www.linkedin.com/in/iamtranductai/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
-
-
-
-
-<!--
-**ductai07/ductai07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning PTIT
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about NLP,Computer Vision
+- 📫 How to reach me: contact facebook
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
