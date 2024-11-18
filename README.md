@@ -1,13 +1,13 @@
 <h1 align="center">Welcome To < ductai07 >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
-  <h2>🌱 Xinchao!!</h2>
+  <h2>🌱 Hi, I'm Tran Duc Tai, a third-year Computer Science student at PTIT !!</h2>
   <a href='http://localhost:5500/public_html/'> 
     <img width='32px' align='center' src="https://cdn-icons-png.flaticon.com/128/3476/3476457.png"/>
   </a>
 </p>
 
-<img width="55%" align="right" alt="Cristiano Ronaldo" src="https://drive.google.com/uc?export=view&id=10wwe5NEUD8VWVNwvlg0Z8fNcfSKMjFLV"/>
+<img width="25%" align="right" alt="Cristiano Ronaldo" src="https://drive.google.com/uc?export=view&id=10wwe5NEUD8VWVNwvlg0Z8fNcfSKMjFLV"/>
 
 
 <p align="center">
@@ -19,12 +19,10 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning PTIT
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about NLP,Computer Vision
-- 📫 How to reach me: contact facebook
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m a AI Engineer intern  .
+- 🌱 I aspire to become an AI Engineer specializing in Generative AI and large language models.  
+- 💬 Ask me about NLP,LLMs,GEN AI.
+- 📫 How to reach me: contact Facebook or Linkedln.
+- 😄 Hobbies: Code,Football,History.
+
 
