@@ -1,7 +1,7 @@
 <h1 align="center">Welcome To < ductai07 >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
-  <h2>🌱 Hi, I'm Tran Duc Tai, a third-year Computer Science student at PTIT !!</h2>
+  <h2>🌱 Hi, I'm Tran Duc Tai, a final-year Computer Science student at PTIT !!</h2>
   <a href='http://localhost:5500/public_html/'> 
     <img width='32px' align='center' src="https://cdn-icons-png.flaticon.com/128/3476/3476457.png"/>
   </a>
@@ -19,9 +19,9 @@
   </a>
 </p>
 
-- 🔭 I’m a AI Engineer intern  .
-- 🌱 I aspire to become an AI Engineer specializing in Generative AI and large language models.  
-- 💬 Ask me about NLP,LLMs,GEN AI.
+- 🔭 I’m a AI Engineer.
+- 🌱 I aspire to become an AI Engineer specializing in Generative AI , Large Language Models and AI Agent.  
+- 💬 Ask me about NLP,LLMs,GEN AI,RAG,AGENT.
 - 📫 How to reach me: contact Facebook or Linkedln.
 - 😄 Hobbies: Code,Football,History.
 
